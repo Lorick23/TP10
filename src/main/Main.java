@@ -8,6 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("coucou");
+		System.out.println("coucou2");
 		
 		Point p = new Point(1, 1);
 		Rectangle r = new Rectangle(p, 2, 3);
