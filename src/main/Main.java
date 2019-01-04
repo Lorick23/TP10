@@ -2,8 +2,6 @@ package main;
 
 import java.util.Collection;
 
-import utils.FigureUtil;
-
 public class Main {
 
 	public static void main(String[] args) {

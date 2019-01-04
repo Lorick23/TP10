@@ -1,4 +1,4 @@
-package utils;
+package main;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -6,15 +6,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
-
-import main.Carre;
-import main.Dessin;
-import main.Figure;
-import main.Point;
-import main.Rectangle;
-import main.Rond;
-import main.Segment;
-import main.Surfacable;
 
 public class FigureUtil {
 
