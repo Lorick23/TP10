@@ -6,7 +6,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+		System.out.println("coucou");
+		
 		Point p = new Point(1, 1);
 		Rectangle r = new Rectangle(p, 2, 3);
 		System.out.println(p.toString());
